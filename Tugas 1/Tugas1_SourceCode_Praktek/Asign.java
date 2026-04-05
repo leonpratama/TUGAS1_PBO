@@ -2,15 +2,14 @@
 Nama  : Leon Octa Pratama
 Hari/Tanggal : 5 April 2026
 Waktu : 04:00*/
-public class Asgdll {
+public class Asign {
 public static void main(String[] args) {
 
-float f= 20.0f;
-double fll;
+int i;
 
-fll=10.0f;
+System.out.print ("hello\n"); i = 5;
 
-System.out.println ("f : "+f + "\nf11: "+fll);
+System.out.println ("Ini nilai i : " + i);
 
 }
 }
