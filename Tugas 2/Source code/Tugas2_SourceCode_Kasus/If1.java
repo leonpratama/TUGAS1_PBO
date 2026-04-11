@@ -1,3 +1,8 @@
+/* NIM   : 13020240269
+Nama  : Leon Octa Pratama
+Hari/Tanggal : 11 April 2026
+Waktu : 13:00*/
+
 /* contoh pemakaian IF satu kasus */ 
 /* membaca nilai integer, menuliskan nilainya jika positif */  
  
