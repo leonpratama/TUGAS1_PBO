@@ -1,3 +1,8 @@
+/* NIM   : 13020240269
+Nama  : Leon Octa Pratama
+Hari/Tanggal : 11 April 2026
+Waktu : 13:00*/
+
 import java.util.Scanner; 
 
 /* contoh baca nilai x, */ 
