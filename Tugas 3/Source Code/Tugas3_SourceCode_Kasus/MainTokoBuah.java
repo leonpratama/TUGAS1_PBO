@@ -1,3 +1,8 @@
+/* NIM   : 13020240269
+Nama  : Leon Octa Pratama
+Hari/Tanggal : 18 April 2026
+Waktu : 13:00*/
+
 package tokobuah;
 import java.util.Scanner;
 
